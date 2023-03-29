@@ -1,0 +1,43 @@
+@charset "UTF-8"
+
+body{
+    background-color: rgb(28, 168, 87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(45, 30, 99);
+}
+h2{
+    color: rgb(114, 114, 216);
+}
+h1#principal{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(54, 189, 252);
+    background-color: gold;
+    font-size: 2.5em;
+    text-align: center;
+    font-style: normal;
+}
+.basico{
+    background-color: goldenrod;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.intermediario{
+    background-color: goldenrod;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.avancado{
+    background-color: goldenrod;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.padrao{
+    font-size: 16px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
